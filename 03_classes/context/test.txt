@@ -1,0 +1,9 @@
+you can inherit in python for example likie this :
+
+class x:
+  def __init__(self):
+    pass
+
+class y(x):
+  def __init__(self):
+    pass
